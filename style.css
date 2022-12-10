@@ -1,0 +1,278 @@
+body{
+	width: 1440px;
+	height: 4521px;
+}
+
+/*                            header/nav                */
+.header_nav{
+margin: 27.5px;
+/*display: flex;
+justify-content: center;*/
+text-align: center;
+
+}
+
+.header_nav_text{
+display: inline;
+width: 53px;
+height: 25px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.02em;
+color: #828282;
+margin-right: 40px;
+}
+
+.first{
+color: #070707;
+}
+
+/*                          about me                   */
+.first_section_line{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.first_section_name{
+margin-left: 235px;
+}
+.name{
+width: 300px;
+height: 60px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+color: #070707;
+margin-top: 12px !important;
+}
+
+.personal_photo{
+margin-left: 235px;
+}
+.personal_photo_img{
+width: 970px;
+height: 387px;	
+}
+
+.about_me_div{
+width: 100%;
+height: 500px;
+background-color: #F6F6F6;
+/*по-іншому я не знаю как правильно зробити - між блоками всеодно відстань 1px*/
+margin-top: -5px;
+}
+
+/*                                 about me text                  */
+.about_me_text{
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Open Sans';
+font-weight: 700;
+font-size: 34px;
+line-height: 46px;
+color: #070707;
+padding-top: 100px;
+
+}
+.about_me_description{
+padding-top: 50px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+color: #070707;
+width: 480px;
+height: 50px;
+padding-left: 480px}
+
+
+.description_second{
+padding-top: 30px;
+}
+/*                                          skills                            */
+
+.skills_div{
+width: 100%;
+height: 564px;
+}
+.description_second_block2{
+padding-top: 20px;
+}
+.text_skills{
+padding-left: 201.5px;
+padding-top: 25px;
+width: 100px;
+height: 38px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #828282;
+}
+
+.skills_wrapper{
+	display: flex;
+	flex-direction: row;
+}
+.skills_figure{
+	padding-top: 56.7px;
+}
+
+.img_af{
+margin-left: 230px;
+}
+.img_ai{
+margin-left: 75px;
+}
+.img_ae{
+margin-left: 75px;
+}
+.img_figma{
+margin-left: 90px;
+}
+
+.text_af{
+margin-left: 20px;
+}
+.text_ai{
+margin-left: -135px;
+}
+.text_ae{
+margin-left: -135px;
+}
+.text_figma{
+margin-left: -130px;
+}
+
+.black_star{
+width: 26px;
+height: 26px;
+}
+.skills_stars_af{
+display: inline-block;
+padding-left: 234.5px;
+}
+.skills_stars_ai{
+display: inline-block;
+padding-left: 97px;
+
+}
+.skills_stars_ae{
+display: inline-block;
+padding-left: 97px;
+
+}
+.skills_stars_figma{
+display: inline-block;
+padding-left: 97px;
+
+}
+/*                               portfolio                    */
+.portfolio{
+	width: 100%;
+	height: 2268px;
+	background-color:#F6F6F6;
+}
+
+.first_portfolio_img{
+	padding: 50px 235px 0 235px;
+}
+.first_portfolio_text{
+padding-top: 40px;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+text-decoration-line: underline;
+color: #070707;
+}
+
+.second_portfolio_img{
+	padding-top: 70px;
+}
+
+/*                                Contacts                  */
+
+.contacts_text{
+	padding-top: 20px;
+}
+
+.contacts_button_div{
+/*display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;*/
+padding-left: 630px;
+padding-top:60px;
+}
+
+.contacts_button{
+
+width: 180px;
+height: 44px;
+background: #070707;
+border-radius: 22px;
+}
+.contacts_button_text{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+letter-spacing: 0.1em;
+color: #FFFFFF;
+}
+
+.linkedin{
+	padding-top: 30px;
+	padding-left: 565px;
+}
+.instagram{
+	padding-left: 50px;
+}
+.behance{
+	padding-left: 50px;
+}
+.dribble{
+	padding-left: 50px;
+}
+.contacts_text_last{
+	padding-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
